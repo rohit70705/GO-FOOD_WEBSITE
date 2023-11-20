@@ -1,4 +1,4 @@
-# GO-FOOD_WEBSITE❤️ 
+**GO-FOOD_WEBSITE❤️** 
 This is a website made using MERN Stack.
 
 To use this repo. First clone the repo to your system.
@@ -7,7 +7,7 @@ To use this repo. First clone the repo to your system.
 3) Then run both. Backend - npm run dev. Frontend- npm run start.
 
 
-# It has the functionality to order food and give rating and reviews on product.
+**It has the functionality to order food and give rating and reviews on product.**
 
 1) React is use for Frontend part.
 2) NodeJs , ExpressJs is use for Backend Part.
